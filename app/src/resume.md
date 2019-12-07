@@ -27,6 +27,6 @@ As a technical support representative, I answered phones, emails and online chat
 
 ## Unconventional Work Experience
 #### Stay at Home Parent | 2016 - 2018
-As a stay at home parent I created a routine for two babies (16 months apart in age!), drawing on my experience as a former teacher at a <a className="App-link" href="https://en.wikipedia.org/wiki/Montessori_education">Montessori</a> school. I also organized an affordable monthly parent and baby meet up at the Tracy Aviary with other stay at home parents. 
+As a stay at home parent I created a routine for two babies (16 months apart in age!), drawing on my experience as a former <a className="App-link" href="https://en.wikipedia.org/wiki/Montessori_education">Montessori</a> school teacher. I also organized an affordable monthly parent and baby meet up at the Tracy Aviary with other stay at home parents. 
 
 Being a stay at home parent is inofitself a full time job, so naturally I took on more duties around the home and found ways to optimize for success. I created processes to achieve efficiency with household chores and to open better lines of communication between my spouse and I. For instance, my spouse and I have used kanban boards on our kitchen wall for home improvement projects, along with a backlog of chores needing to be done. 
