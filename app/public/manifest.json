@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Gracie Davenport",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -13,9 +13,9 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "desk.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1044x616"
     }
   ],
   "start_url": ".",
