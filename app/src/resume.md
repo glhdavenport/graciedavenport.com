@@ -12,7 +12,8 @@ Hi, I'm Gracie. I am a systems minded individual which fueled my fascination for
 
 
 ## Skills and Tools
-<img src= 'skills.png' />
+<img src= 'skills.png' classname="App-image">
+
 
 ## Work Experience
 #### Java Developer | Utah Interactive | 2018 - Present
