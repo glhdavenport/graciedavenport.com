@@ -1,16 +1,14 @@
 import React from 'react';
-import Layers from './Layers.svg';
 import './App.css';
+import MarkDownFile from './MarkdownRenderer';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={Layers} className="Layers" alt="Layers" />
         <p>
-          Hello.
+        <MarkDownFile />
         </p>
-    
       </header>
     </div>
   );

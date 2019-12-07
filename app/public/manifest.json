@@ -16,6 +16,11 @@
       "src": "desk.png",
       "type": "image/png",
       "sizes": "1044x616"
+    },
+    {
+      "src": "skills.png",
+      "type": "image/png",
+      "sizes": "500x500"
     }
   ],
   "start_url": ".",
