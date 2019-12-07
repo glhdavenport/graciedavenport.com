@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+
 }
 
 .App-logo {
@@ -26,6 +28,53 @@
   font-size: calc(10px + 2vmin);
   color: white;
   text-align: center;
+  margin: 25px 50px 0px 100px;
+}
+
+.App-intro {
+  background-color: #287c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+}
+
+.App-education {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+  margin: 25px 50px 0px 100px;
+}
+
+.App-workhistory {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+  margin: 25px 50px 0px 100px;
+}
+
+.App-footer {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: left;
 }
 
 .App-link {
@@ -34,5 +83,10 @@
 
 .App-image {
   max-width: 60%;
+  height: auto;
+}
+
+.App-icon {
+  max-width: 5%;
   height: auto;
 }

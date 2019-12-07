@@ -17,7 +17,7 @@ class MarkDownFile extends Component {
 
   render() {
     return (
-      <div className="content">
+      <div>
         <ReactMarkdown source={this.state.file} escapeHtml={false} />
       </div>
     )
