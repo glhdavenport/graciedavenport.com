@@ -28,42 +28,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
   text-align: center;
-  margin: 25px 50px 0px 100px;
-}
-
-.App-intro {
-  background-color: #287c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  text-align: center;
-}
-
-.App-education {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  text-align: center;
-  margin: 25px 50px 0px 100px;
-}
-
-.App-workhistory {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  text-align: center;
-  margin: 25px 50px 0px 100px;
+  margin: 25px 50px 75px 100px;
 }
 
 .App-footer {
@@ -87,6 +52,8 @@
 }
 
 .App-icon {
-  max-width: 5%;
-  height: auto;
+  width: 25px;
+  min-height: 25px;
+  text-decoration-line: none;
+  margin: 1%;
 }
