@@ -1,14 +1,23 @@
 
 ## Gracie Davenport
-<a href="https://github.com/glhdavenport"><img src="assets/github.svg" classname="App-icon"></a> <a href="https://www.linkedin.com/in/gracie-davenport/"><img src="assets/linkedin.svg" classname="App-icon"></a>
+<a href="https://github.com/glhdavenport"><img src="assets/github.svg" classname="App-icon"></a> &nbsp <a href="https://www.linkedin.com/in/gracie-davenport/"><img src="assets/linkedin.svg" classname="App-icon"></a>
 
 Hi, I'm Gracie. I am a systems minded individual which fueled my fascination for the social sciences and eventually led me towards computer science and engineering. I strive for transparency and honesty in both my personal and professional life. My career goals are continued learning and development of software engineering and process while exploring the world of computer science. I hope to one day do work that marries my experiences in computer science with my love of the social sciences.
 
 ## Education
-#### Weber State University
+
+<img src= 'assets/weber.png' classname="App-icon">
+
+####  Weber State University
+
+
+ 
  Bachelors of Science in Computer Science
 
+<img src= 'assets/UofU.png' classname="App-icon">
+
 #### University of Utah 
+
  Bachelors of Science in Sociology
  
  Bachelors of Science in Anthropology
