@@ -6,10 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-        <MarkDownFile />
-        </p>
       </header>
+      <body className="App-body">
+        <MarkDownFile />
+      </body>
     </div>
   );
 }
