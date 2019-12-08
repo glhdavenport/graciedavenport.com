@@ -31,6 +31,19 @@
   margin: 25px 75px 75px 75px;
 }
 
+.App-intro {
+  background-color: #282c34;
+  border-bottom:solid white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+  margin: 1px 75px 1px 75px;
+}
+
 .App-footer {
   background-color: #282c34;
   min-height: 10vh;
