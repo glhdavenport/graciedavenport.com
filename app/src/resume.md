@@ -2,12 +2,11 @@
 ## Gracie Davenport
 <a href="https://github.com/glhdavenport"><img src="assets/github.svg" classname="App-icon"></a> &nbsp <a href="https://www.linkedin.com/in/gracie-davenport/"><img src="assets/linkedin.svg" classname="App-icon"></a>
 
-Hi, I'm Gracie. I am a systems minded individual which fueled my fascination for the social sciences and eventually led me towards computer science and engineering. I strive for transparency and honesty in both my personal and professional life. My career goals are continued learning and development of software engineering and process while exploring the world of computer science. I hope to one day do work that marries my experiences in computer science with my love of the social sciences.
+Hi, I'm Gracie. I am a systems minded individual which fueled my fascination for the social sciences and eventually led me towards computer science and engineering. I strive for transparency and honesty in both my personal and professional life. 
 
+My career goals are continued learning and development of software engineering and process while exploring the world of computer science. I hope to one day do work that marries my experiences in computer science with my love of the social sciences.
 
 ## Education
-
-
 ####  Weber State University
 
  Bachelors of Science in Computer Science
@@ -32,6 +31,10 @@ As a technical support representative, I answered phones, emails and online chat
 
 ## Unconventional Work Experience
 #### Stay at Home Parent | 2016 - 2018
-As a stay at home parent I created a routine for two babies (16 months apart in age!), drawing on my experience as a former <a className="App-link" href="https://en.wikipedia.org/wiki/Montessori_education">Montessori</a> school teacher. I also organized an affordable monthly parent and baby meet up at the Tracy Aviary with other stay at home parents. 
+As a stay at home parent I created structure and a prepared environment for my two kids (16 months apart in age!) by drawing on my experience as a former <a className="App-link" href="https://en.wikipedia.org/wiki/Montessori_education">Montessori</a> school teacher. I organized our space in a way that allows my young children to explore freely and where our toys, crafting supplies and other learning resources have a home that is easily accessible.
 
-Being a stay at home parent is inofitself a full time job, so naturally I took on more duties around the home and found ways to optimize for success. I created processes to achieve efficiency with household chores and to open better lines of communication between my spouse and I. For instance, my spouse and I have used kanban boards on our kitchen wall for home improvement projects, along with a backlog of chores needing to be done. 
+Sometimes being a stay at home parent of young kids can feel a bit isolating. Because of this I took initiative to organize an affordable monthly parent and baby meet up at the Tracy Aviary with other stay at home parents. 
+
+Being a stay at home parent in and of itself is a full time job, so naturally I took on more duties around the home and found ways to optimize for success. I created processes to achieve efficiency with household chores and to open better lines of communication between me and my spouse. For instance, my spouse and I have used Kanban boards on our kitchen wall for home improvement projects, along with a backlog of chores needing to be done.
+
+Continued education is kind of my M.O. so when I became a parent child development became a renewed interest of mine along with parenting styles. Siblings Without Rivalry and Unconditional Parenting were the most impactful books that I’ve read as a parent.
