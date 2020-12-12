@@ -1,5 +1,5 @@
 
-## Heading are hard 
+## Headings are hard 
 <a href="https://github.com/glhdavenport"><img src="assets/github.svg" classname="App-icon"></a> &nbsp <a href="https://www.linkedin.com/in/gracie-davenport/"><img src="assets/linkedin.svg" classname="App-icon"></a>
 
 Hi, I'm Gracie and I'm autistic. This doesn't mean that I lack connection. This doesn't mean that I don't like being social. It just means that I think and act differently than what is expected. Easy things are hard for me and hard things are easy. I'm confused by rules that neuro-typical people know intuitively, and I don't know how to read a room or take a hint. When people expect one behavior and get another from me I get inaccurately labeled. For example, I get labeled as a bitch when I ask a question that seems rhetorical but is not (or when tell someone they remind me of a poodle :grimacing:), or a liar when my body language doesn't match what I'm saying, or 'a lot' when I get talking about something and don't understand the boundaries around sharing - I'm a classic oversharer who doesn't know when someone isn't into the conversation. But if I'm being honest, 'a lot' is exactly what I am, because that's kind of how I view autism. It's a lot of stimulation, a lot of thinking, a lot of moving, a lot of emotion, a lot of deep understanding and empathy on a greater scale.
