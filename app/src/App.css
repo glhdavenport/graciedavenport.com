@@ -24,10 +24,10 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: right;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-  text-align: center;
+  color: rgba(255, 255, 255, 0.522);
+  text-align: left;
   margin: 25px 75px 75px 75px;
 }
 
